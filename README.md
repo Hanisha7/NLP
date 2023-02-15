@@ -1,5 +1,3 @@
 # NLP
-TASKS
 
-
-TASKS RELATED TO NATURAL LANGUAGE PROCESSING COURSE USING JUPYTER NOTEBOOK 
+Task Related to Natural Language Processing Course using Jupyter notebook 
